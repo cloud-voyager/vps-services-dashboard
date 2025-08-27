@@ -21,6 +21,9 @@ tar -czvf release.tar.gz -C dist/public assets index.html
 
 会生成一个文件到项目根目录, 通过 AppWrite Site 部署即可.
 
+## 通过 GitHub Repo 部署到 AppWrite 
+适合熟手操作。略。
+
 
 # 本地使用
 
