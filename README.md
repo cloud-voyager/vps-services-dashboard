@@ -1,6 +1,8 @@
 # 新手推荐使用现成网页版
 https://vps.appwrite.network/
 
+![VPS Services DashBoard](https://res.cloudinary.com/nodeseek/image/upload/v1756298236/texsdtalnut6u5rdue6g.webp)
+
 # 中手可以使用 AppWrite Site 部署
 Vercel/Netlify/Cloudflare 也可以。
 
