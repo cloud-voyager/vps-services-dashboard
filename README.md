@@ -1,3 +1,27 @@
+# 新手推荐使用现成网页版
+https://vps.appwrite.network/
+
+# 中手可以使用 AppWrite Site 部署
+Vercel/Netlify/Cloudflare 也可以。
+
+## 注册 AppWrite 账号
+https://cloud.appwrite.io/
+
+## 创建数据库和字段
+- Database id: vps-dashboard
+- Collection id(现在叫 Table id): servers
+
+参考下方创建所需的字段
+
+## 打包上传到 AppWrite Site
+
+npm run build
+
+tar -czvf release.tar.gz -C dist/public assets index.html
+
+会生成一个文件到项目根目录, 通过 AppWrite Site 部署即可.
+
+
 # 本地使用
 
 npm install
