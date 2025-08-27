@@ -13,7 +13,7 @@ https://cloud.appwrite.io/
 
 参考下方创建所需的字段
 
-## 打包上传到 AppWrite Site
+## 手动打包上传到 AppWrite Site
 
 npm run build
 
